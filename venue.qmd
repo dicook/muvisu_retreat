@@ -1,5 +1,0 @@
----
-title: "Venue"
----
-
-Venue and travel details to be confirmed.

@@ -8,10 +8,6 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Program
-        href: program.qmd
-      - text: Venue
-        href: venue.qmd
     tools:
       - icon: github
         menu:

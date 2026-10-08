@@ -1,24 +1,53 @@
 ---
-title: "MuViSU Retreat"
-subtitle: "Two-day retreat, date and location to be confirmed"
+title: "MuViSU Retreat 2026"
+subtitle: "4-6 November, Mont Fleur, Stellenbosch"
 ---
 
 Welcome to the retreat of **MuViSU**, the Multivariate Visualisation and Statistical Understanding group. See [github.com/MuViSU](https://github.com/MuViSU) for more about the organisation and its materials.
 
-The retreat is a two-day, in-person opportunity to share research, plan projects, and collaborate on software, teaching and visualisation ideas.
+The goals of this retreat are:
 
-## When
+- Strengthen relationships and build awareness of individual group members' skills
+- Develop and document applications that showcase the benefit of the Centre's software
+- Extend and document the software, possibly to include interactive and dynamic plots
 
-Day 1 and Day 2: *dates to be confirmed*.
+## Participant activity
 
-## Get Involved
+Each participant should plan to bring a research activity to work on during the retreat, or be prepared to work with one or two other participants on their proposed activity. Think about what might be achieved in the 1.5 day time frame, and what might be an activity where getting input from others will be especially useful. For example, students could focus on a particular section of their thesis, which might involve literature review, writing, an application or software development. Faculty might consider some part of their current work that would benefit from some dedicated time to develop, and insights from other faculty and students, which might be a part of a research project, application, blog post, or developing teaching materials.
 
-Project ideas are contributed by attendees. Please [file an issue](https://github.com/dicook/muvisu_retreat/issues) describing an idea to work on, and working groups will be formed during the retreat.
 
 ## Program
 
-See the [program](program.qmd) and [venue](venue.qmd) pages.
+| Day | Date | Time | Activity | Additional |
+|-----|------|------|----------|----------|
+| Wednesday | 04-Nov |  |  | |
+| | | 16:00 | Arrival |Later arrival for participants from NWU|
+| | | 20:00 | Dinner | Times to be confirmed |
+| | | 21:00 | Ice breakers / games | DC card game |
+| | | | Dinner and social evening |  Times to be confirmed |
+| Thursday | 05-Nov | |  | |
+| | | 7:30-8:30| Breakfast | Times to be confirmed|
+| | | 9:00-9:30| Welcoming | DC - expectations for the retreat|
+| | | 9:30-11:00| Flash presentations (small groups) | Pitch ideas / challenges
+| | | 11:00-11:30| Tea break ||
+| | | 11:30-13:00| Small group session 1 ||
+| | | 13:00-14:00| Lunch ||
+| | | 14:30-15:00| Small group session 2 ||
+| | | 15:00-15:30| Tea break ||
+| | | 15:30-17:00| Small group session 3 ||
+| | | | Hike / Leisure time | Times to be confirmed |
+| | | | Dinner | Times to be confirmed|
+| Friday | 06-Nov | |  | |
+| | | 7:30-8:30| Breakfast | Times to be confirmed|
+| | | 9:00-10:00 | Last minute finalisation| |
+| | | 10:00-10:30| Tea break ||
+| | | 10:30-12:00 | Show-and-tell results |
+| | | 12:00-13:00 | Discussion / feedback |
+| | | 13:00 | Lunch || 
+| | | 14:00 | Departure || 
 
-## Questions
+## What to do before the retreat
 
-Please file an [issue](https://github.com/dicook/muvisu_retreat/issues).
+- Make a post on the Retreat repo (XXX provide link) briefly describing the planned activity.
+- Prepare a few slides explaining the activity to show at the beginning of the retreat.
+- If you don't have one, create a GitHub account, and make sure you have the most recent versions of R, and quarto on your laptop, or any other software needed.
