@@ -1,0 +1,24 @@
+---
+title: "MuViSU Retreat"
+subtitle: "Two-day retreat, date and location to be confirmed"
+---
+
+Welcome to the retreat of **MuViSU**, the Multivariate Visualisation and Statistical Understanding group. See [github.com/MuViSU](https://github.com/MuViSU) for more about the organisation and its materials.
+
+The retreat is a two-day, in-person opportunity to share research, plan projects, and collaborate on software, teaching and visualisation ideas.
+
+## When
+
+Day 1 and Day 2: *dates to be confirmed*.
+
+## Get Involved
+
+Project ideas are contributed by attendees. Please [file an issue](https://github.com/dicook/muvisu_retreat/issues) describing an idea to work on, and working groups will be formed during the retreat.
+
+## Program
+
+See the [program](program.qmd) and [venue](venue.qmd) pages.
+
+## Questions
+
+Please file an [issue](https://github.com/dicook/muvisu_retreat/issues).
