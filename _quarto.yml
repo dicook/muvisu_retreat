@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MuViSU Retreat"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Program
+        href: program.qmd
+      - text: Venue
+        href: venue.qmd
+    tools:
+      - icon: github
+        menu:
+          - text: Report a Bug
+            href: https://github.com/dicook/muvisu_retreat/issues
+  page-footer: "All participants must observe the [Code of Conduct](https://github.com/dicook/muvisu_retreat/blob/main/CODEOFCONDUCT.md)."
+
+format:
+  html:
+    theme: cosmo
+    toc: true
